@@ -6,7 +6,7 @@ logo: # filename of a logo image that has been placed into your images directory
 
 # Enter the following platform usernames if you would like for them to appear on your site.
 owner:
-  name: Chris Hoekstra
+  name: Chris Hoekstra 
   avatar: bio-photo.jpg
   bio: "This is an academic website."
   email: hoekstrc@ohsu.edu
