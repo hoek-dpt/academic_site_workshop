@@ -6,16 +6,16 @@ logo: # filename of a logo image that has been placed into your images directory
 
 # Enter the following platform usernames if you would like for them to appear on your site.
 owner:
-  name: Ted Laderas
+  name: Chris Hoekstra
   avatar: bio-photo.jpg
   bio: "This is an academic website."
   email: hoekstrc@ohsu.edu
   # Do not include the @ symbol in your Twitter username
   twitter: 
-  linkedin: 
+  linkedin: https://www.linkedin.com/in/chris-hoekstra-4459499b/
   github: hoek-dpt
-  orcid: # ID Number (ex. 0000-0000-0000-0000)
-  researchgate: #username
+  orcid: 0000-0001-5993-1748 
+  researchgate: #userme
   mendeley: #username
   google:
     plus: #username
