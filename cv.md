@@ -3,17 +3,25 @@ layout: resume
 ---
 ## Currently
 
-Current Position Description
+PhD student: Biomedical Informatics
 
 ## Education
 
-`1990 - 1994`
-__University Name__
-Degree Awarded
+'1994 - 1998'
+__Willamette University__
+Bachelor of Science - Biology
 
-`1995 - 1997`
-__University Name__
-Degree Awarded 
+`1998 - 2002`
+__Willamette University__
+Doctor of Physical Therapy 
+
+'2014 - 2016`
+__Oregon Health & Science University__
+Masters of Biomedical Informatics 
+
+'2016 - Present'
+__Oregon Health & Science University__
+Doctor of Philosophy - Biomedical Informatics (Expected graduation 6/2020)`
 
 ## Awards
 
